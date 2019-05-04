@@ -1,0 +1,44 @@
+C:\Users\IT16069282\source\repos\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\IT16069282\source\repos\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\IT16069282\source\repos\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\IT16069282\source\repos\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\IT16069282\Desktop\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\IT16069282\Desktop\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\IT16069282\Desktop\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\IT16069282\Desktop\Lab01\Lab01\obj\Debug\Lab01.pdb
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\bin\Debug\Lab01.exe.config
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\bin\Debug\Lab01.exe
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\bin\Debug\Lab01.pdb
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.exe
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 03 Part 02 Answer Project\Lab01\Lab01\obj\Debug\Lab01.pdb
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\bin\Debug\Lab01.exe.config
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\bin\Debug\Lab01.exe
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\bin\Debug\Lab01.pdb
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.exe
+G:\2019 - Image Understanding And Processing\Lab Exercise Answer Materials\Lab 02 Part 02 Answer Project - Udana\Lab01\Lab01\obj\Debug\Lab01.pdb
